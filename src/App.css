@@ -1,0 +1,11 @@
+.markdown-body .checkbox {
+  margin-right: 4px;
+}
+
+.markdown-body li > p {
+  display: inline-block;
+}
+
+.markdown-body code {
+  display: block;
+}

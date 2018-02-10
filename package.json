@@ -1,0 +1,30 @@
+{
+  "name": "mono-editor",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^16.0.36",
+    "@types/react-dom": "^16.0.3",
+    "github-markdown-css": "^2.10.0",
+    "immutable": "^3.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts-ts": "2.13.0",
+    "slate": "^0.32.2",
+    "slate-auto-replace": "^0.9.0",
+    "slate-md-serializer": "https://github.com/yszk0123/slate-md-serializer",
+    "slate-react": "^0.11.2",
+    "slate-soft-break": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2",
+    "tslint-config-prettier": "^1.7.0",
+    "typescript": "^2.7.1"
+  }
+}
